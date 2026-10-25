@@ -13,12 +13,14 @@ $\color{#A34EFF}{moodswings}$ $\color{#fffeff}{often,}$ $\color{#fffeff}{beware!
 
 $\color{#FF87FF}{kms/kys}$ $\color{#fffeff}{jokes}$ $\color{#fffeff}{all}$ $\color{#fffeff}{the}$ $\color{#fffeff}{time.}$ $\color{#fffeff}{My}$ $\color{#FFDFFF}{typology}$ $\color{#fffeff}{is}$ $\color{#FF87FF}{so279}$ $\color{#FF87FF}{2w1}$  $\color{#fffeff}{and}$ $\color{#A34EFF}{ENFJ.}$
 
+<a href="https://planetlordd.atabook.org" target="_blank"><img src="https://i.ibb.co/Xx87ydbM/image-2026-10-25-183011228.png" alt="meow" width="24%"/></a> <a href="https://meqw.straw.page" target="_blank"><img src="https://i.ibb.co/yBpWxfZf/image-2026-10-25-184503376.png" alt="meow" width="24%"/></a>
+
 <p style="text-align: center;"><details>
  <summary>   <img src="https://i.ibb.co/5XhnXj5r/IMG-9668-1.gif" alt="meow"/> meowww </summary>
  
 [fans-town](https://github.com/fans-town) [title-town](https://github.com/title-town) [pt-awards](https://github.com/pt-awards) [pt-players](https://github.com/pt-players) [hall-of-media](https://github.com/pt-hall-of-media) [contributers](https://github.com/pt-contributers) [awesomeness](https://github.com/pt-of-awesomeness) [pt-nominations](https://github.com/ponytown-nominations) [charactersofpt](https://github.com/charactersofpt) [cosplaytown](https://github.com/cosplaytown) [style-town](https://github.com/style-town) [pt-fashion](https://github.com/pt-fashion) [kaotown](https://github.com/kaotown) [hvyfictkin](https://github.com/pt-heavyfictkin) [pt-of-forsaken](https://github.com/pt-of-forsaken) [casinotown](https://github.com/casinotown) $\color{#b2bde2}\textsf{+}$
 </details></p>
 
-| <img src="https://i.ibb.co/3y3V57bS/image-2026-10-25-183811538.png" alt="meow"/> | Second Header |
+| ppokk  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+
