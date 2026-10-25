@@ -13,7 +13,6 @@ $\color{#A34EFF}{moodswings}$ $\color{#fffeff}{often,}$ $\color{#fffeff}{beware!
 
 $\color{#FF87FF}{kms/kys}$ $\color{#fffeff}{jokes}$ $\color{#fffeff}{all}$ $\color{#fffeff}{the}$ $\color{#fffeff}{time.}$ $\color{#fffeff}{My}$ $\color{#FFDFFF}{typology}$ $\color{#fffeff}{is}$ $\color{#FF87FF}{so279}$ $\color{#FF87FF}{2w1}$  $\color{#fffeff}{and}$ $\color{#A34EFF}{ENFJ.}$
 
-ㅤ
 
 <a href="https://planetlordd.atabook.org" target="_blank"><img src="https://i.ibb.co/mFTqjGNn/image-2026-10-25-195039899.png" alt="meow" width="24%"/></a> <a href="https://meqw.straw.page" target="_blank"><img src="https://i.ibb.co/gZtzS0x2/image-2026-10-25-195128703.png" alt="meow" width="24%"/></a>
 
