@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-$\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{#fffeff}{or}$ $\color{#A34EFF}{Mars,}$ $\color{#fffeff}{I}$ $\color{#fffeff}{go}$ $\color{#fffeff}{by}$ $\color{#FFDFFF}{she/he.}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Bipolar}$ $\color{#fffeff}{and}$ $\color{#fffeff}{experience}$
+$\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{#fffeff}{or}$ $\color{#A34EFF}{Mars,}$ $\color{#fffeff}{I}$ $\color{#fffeff}{go}$ $\color{#fffeff}{by}$ $\color{#FFDFFF}{she/he.}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Bipolar}$ $\color{#fffeff}{and}$ $\color{#fffeff}{experience}$
 
 $\color{#A34EFF}{moodswings}$ $\color{#fffeff}{often,}$ $\color{#fffeff}{beware!}$ $\color{#fffeff}{Im}$ $\color{#fffeff}{usually}$ $\color{#fffeff}{very}$ $\color{#FFDFFF}{cheerful,}$ $\color{#fffeff}{I}$ $\color{#fffeff}{make}$ $\color{#A34EFF}{slit,}$
 
