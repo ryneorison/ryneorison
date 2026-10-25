@@ -15,7 +15,7 @@ $\color{#FF87FF}{kms/kys}$ $\color{#fffeff}{jokes}$ $\color{#fffeff}{all}$ $\col
 
 ㅤ
 
-<a href="https://planetlordd.atabook.org" target="_blank"><img src="https://i.ibb.co/Xx87ydbM/image-2026-10-25-183011228.png" alt="meow" width="24%"/></a> <a href="https://meqw.straw.page" target="_blank"><img src="https://i.ibb.co/yBpWxfZf/image-2026-10-25-184503376.png" alt="meow" width="24%"/></a>
+<a href="https://planetlordd.atabook.org" target="_blank"><img src="https://i.ibb.co/mFTqjGNn/image-2026-10-25-195039899.png" alt="meow" width="24%"/></a> <a href="https://meqw.straw.page" target="_blank"><img src="https://i.ibb.co/gZtzS0x2/image-2026-10-25-195128703.png" alt="meow" width="24%"/></a>
 
 
  <table border="0" align="left">
@@ -43,4 +43,3 @@ hiii hi hih ih
   </details>
       </th>
    </table>
-
