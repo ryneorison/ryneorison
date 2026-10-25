@@ -7,6 +7,8 @@
   </tr>
 </table>
 
+$\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{#fffeff}{or}$ $\color{#A34EFF}{Mars,}$ $\color{#fffeff}{I}$ $\color{#fffeff}{go}$ $\color{#fffeff}{by}$ $\color{#FFDFFF}{she/he.}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Bipolar}$ $\color{#fffeff}{and}$ $\color{#fffeff}{experience}$ $\color{#A34EFF}{moodswings}$ $\color{#fffeff}{often,}$ $\color{#fffeff}{beware!}$
+
 <p style="text-align: center;"><details>
  <summary>   <img src="https://i.ibb.co/5XhnXj5r/IMG-9668-1.gif" alt="meow"/> meowww </summary>
  
