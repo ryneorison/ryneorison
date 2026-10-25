@@ -1,1 +1,1 @@
-<img align="left" src="https://i.ibb.co/3Gq5kQT/image-2026-10-25-163338943.png" alt="meow" width="45%"/> hii
+<img align="left" src="https://i.ibb.co/3Gq5kQT/image-2026-10-25-163338943.png" alt="meow" width="50%"/> hii
