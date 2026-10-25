@@ -17,13 +17,12 @@ $\color{#FF87FF}{kms/kys}$ $\color{#fffeff}{jokes}$ $\color{#fffeff}{all}$ $\col
 
 <a href="https://planetlordd.atabook.org" target="_blank"><img src="https://i.ibb.co/Xx87ydbM/image-2026-10-25-183011228.png" alt="meow" width="24%"/></a> <a href="https://meqw.straw.page" target="_blank"><img src="https://i.ibb.co/yBpWxfZf/image-2026-10-25-184503376.png" alt="meow" width="24%"/></a>
 
-ㅤ
 
  <table border="0" align="left">
     <tr></tr>
       <th>
   <details>
-        <summary><img src="https://i.ibb.co/0VdXSs8x/image-2026-10-25-193258773.png" width="170px"></summary>
+        <summary><img src="https://i.ibb.co/0VdXSs8x/image-2026-10-25-193258773.png" width="150px"></summary>
     
 hiii hi hih ih
     
@@ -36,7 +35,7 @@ hiii hi hih ih
     <tr></tr>
       <th>
    <details>
-        <summary><img src="https://i.ibb.co/pv7BC9F0/image-2026-10-25-193408312.png" width="170px"></summary>
+        <summary><img src="https://i.ibb.co/pv7BC9F0/image-2026-10-25-193408312.png" width="150px"></summary>
      
 [fans-town](https://github.com/fans-town) [title-town](https://github.com/title-town) [pt-awards](https://github.com/pt-awards) [pt-players](https://github.com/pt-players) [hall-of-media](https://github.com/pt-hall-of-media) [contributers](https://github.com/pt-contributers) [awesomeness](https://github.com/pt-of-awesomeness) [pt-nominations](https://github.com/ponytown-nominations) [charactersofpt](https://github.com/charactersofpt) [cosplaytown](https://github.com/cosplaytown) [style-town](https://github.com/style-town) [pt-fashion](https://github.com/pt-fashion) [kaotown](https://github.com/kaotown) [hvyfictkin](https://github.com/pt-heavyfictkin) [pt-of-forsaken](https://github.com/pt-of-forsaken) [casinotown](https://github.com/casinotown) $\color{#b2bde2}\textsf{+}$
 
