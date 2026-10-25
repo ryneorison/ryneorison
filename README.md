@@ -7,6 +7,8 @@
   </tr>
 </table>
 
+ㅤ
+
 $\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{#fffeff}{or}$ $\color{#A34EFF}{Mars,}$ $\color{#fffeff}{I}$ $\color{#fffeff}{go}$ $\color{#fffeff}{by}$ $\color{#FFDFFF}{she/he.}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Bipolar}$ $\color{#fffeff}{and}$ $\color{#fffeff}{experience}$ $\color{#A34EFF}{moodswings}$ $\color{#fffeff}{often,}$ $\color{#fffeff}{beware!}$ $\color{#fffeff}{Im}$ $\color{#fffeff}{usually}$ $\color{#fffeff}{very}$ $\color{#FFDFFF}{cheerful,}$ $\color{#fffeff}{I}$ $\color{#fffeff}{make}$ $\color{#A34EFF}{slit,}$ $\color{#FF87FF}{kms/kys}$ $\color{#fffeff}{jokes}$ $\color{#fffeff}{all}$ $\color{#fffeff}{the}$ $\color{#fffeff}{time.}$ $\color{#fffeff}{My}$ $\color{#FFDFFF}{typology}$ $\color{#fffeff}{is}$ $\color{#FF87FF}{so279}$ $\color{#FF87FF}{2w1}$  $\color{#fffeff}{and}$ $\color{#A34EFF}{ENFJ.}$
 
 
