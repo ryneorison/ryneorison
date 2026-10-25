@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-       haaiiiy
+       "ᠻrom the sta𐑾t i 𑄜nly ჩad o𝚗e ᧁoal, 𝚝o achiᧉve 𝟐0 hea𐑾ts."
     </td>
   </tr>
 </table>
