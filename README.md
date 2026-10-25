@@ -21,6 +21,54 @@ $\color{#FF87FF}{kms/kys}$ $\color{#fffeff}{jokes}$ $\color{#fffeff}{all}$ $\col
 [fans-town](https://github.com/fans-town) [title-town](https://github.com/title-town) [pt-awards](https://github.com/pt-awards) [pt-players](https://github.com/pt-players) [hall-of-media](https://github.com/pt-hall-of-media) [contributers](https://github.com/pt-contributers) [awesomeness](https://github.com/pt-of-awesomeness) [pt-nominations](https://github.com/ponytown-nominations) [charactersofpt](https://github.com/charactersofpt) [cosplaytown](https://github.com/cosplaytown) [style-town](https://github.com/style-town) [pt-fashion](https://github.com/pt-fashion) [kaotown](https://github.com/kaotown) [hvyfictkin](https://github.com/pt-heavyfictkin) [pt-of-forsaken](https://github.com/pt-of-forsaken) [casinotown](https://github.com/casinotown) $\color{#b2bde2}\textsf{+}$
 </details></p>
 
-| ppokk  | Second Header |
-| ------------- | ------------- |
+  <img align="left" src="https://drive.google.com/uc?id=1x7Ev7BXfNc4V701g8ezBW-5sRHhJsRk0" width="65px">
+ <table border="0" align="left">
+    <tr></tr>
+      <th>
+  <details>
+        <summary>$\color{#F7ABCFFF}{\textsf{Code!}}$</summary>
+    
+```bash
+<a href="https://github.com/Vexuliii"><img src="https://drive.google.com/uc?id=1lN7sKiWEPOY-yZI6tOdTiwS1CYtRw1_i"></a>
+```
+
+$\color{#F7ABCFFF}{\textsf{Copy this and put it on YOUR github to link back to my page!}}$
+    
+  </details>
+      </th>
+  </table>
+
+  
+<table border="0" align="left">
+    <tr></tr>
+      <th>
+   <details>
+        <summary>$\color{#F7ABCFFF}{\textsf{Friends!}}$</summary>
+
+<a href="https://github.com/BULLET-MATH"><img src="https://drive.google.com/uc?id=1EqrOzbRmQZlE089_HESDMv-7WVKp3EGd" title="BULLET-MATH" alt="stat"></a>
+
+<a href="https://github.com/1969bootboy"><img src="https://drive.google.com/uc?id=1jkql-bGo3k-5FBb6qrzwTc4ICYBEuwlz" title="1969BOOTBOY" alt="tommy"></a>
+
+     
+  </details>
+      </th>
+   </table>
+
+   
+<table border="0" align="left">
+    <tr></tr>
+      <th>
+   <details>
+        <summary>$\color{#F7ABCFFF}{\textsf{Others!}}$</summary>
+
+<a href="https://github.com/novapilled"><img src="https://64.media.tumblr.com/f2a78578d0e3800d69c645b9cbf20d89/d77be598b25e3eca-98/s100x200/19f82cd6ee8f19a94804a2887ccfa645119420e4.gifv" title="novapilled"></a>
+<a href="https://github.com/pwppy"><img src="https://64.media.tumblr.com/3d06e89a06d2a6e083ad38affe497ca1/2d0a429cb9bc2113-65/s100x200/256e5ffa75fe2eaa38f4eadc1aca1f50399d8438.gifv" title="pwppy"></a>
+  </details>
+              </th>
+  </table>
+        <br>
+        <br>
+      </th>
+  </table>
+
 
