@@ -21,8 +21,8 @@ $\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{
   <details>
         <summary><img src="https://i.ibb.co/j96hVz7Y/image-2026-10-25-195303319.png" width="150px"></summary>
     
-[yoshi](yoshilnqw)
-    
+[yoshi](https://github.com/yoshilnqw) [exi](https://github.com/spokeispeak) [chase](https://github.com/rottingecho) [moritz](https://github.com/beauty-clown) [jina](https://github.com/sapsfi) [spoke](https://github.com/doomsdayduo) [ludwig](https://github.com/ger-ita) [zack](https://github.com/zackingaround) [gen](https://github.com/wemmbite) [aspen](https://github.com/evostrike) [mike](https://github.com/traummannn) [xaden](https://github.com/xaden6) [awze](https://github.com/chemicalshot) [ember](https://github.com/iiquidsmooth) [tia](https://github.com/gambleghost) [nyan](https://github.com/nyanmare) [entua](https://github.com/entua108) [eric](https://github.com/megalodontia) [niko](https://github.com/deepaffection) [rocket](https://github.com/pathogen-interface) [isaac](https://github.com/itrappedddd) [jax](
+    https://github.com/SONNELLINOENTHUSIAST) [chance](https://github.com/gamblersi) [luis](https://github.com/wifiesss) [kabanos](https://github.com/kaban0z) [caney](https://github.com/caneyyy-azurewrath) [toby](https://github.com/virtusimperiums) [anjjay](https://github.com/cheel2h1) [jesse](https://github.com/orderofthepig) [ruben](https://github.com/killgirlswatch) [seth](https://github.com/7nulls) [killer](https://github.com/killpyre) [eddi](https://github.com/loafith) [tdl](https://github.com/uictim) [silly](https://github.com/itssillyywillyy) [pthalo](https://github.com/t4ngled0rgans) [shim](https://github.com/puppytreat) [rockett](https://github.com/fluxiophurnia) [rye](https://github.com/ryephim) [kira](https://github.com/bl00mingnightshade) [lunar](https://github.com/lunarangek) [evan](https://github.com/evanyuuu) [kai](https://github.com/swornblade) [aven](https://github.com/avenueq) ++ i love all my friends pls lmk if i forgot to add someone
   </details>
       </th>
   </table>
