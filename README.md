@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-       $\color{#FF87FF}{"ᠻrom}$ $\color{#A251FD}{the}$ $\color{#FFDFFF}{sta𐑾t}$ $\color{#A251FD}{i}$ $\color{#1D0E76}{𑄜nly}$ $\color{#A34EFF}{ჩad}$ $\color{#FF87FF}{o𝚗e}$ $\color{#FFDFFF}{ᧁoal,}$ $\color{#FF87FF}{𝚝o}$ $\color{#FF87FF}{achiᧉve}$ $\color{#FF87FF}{𝟐0}$ $\color{#FF87FF}{hea𐑾ts."}$
+       $\color{#FF87FF}{"ᠻrom}$ $\color{#A251FD}{the}$ $\color{#FFDFFF}{sta𐑾t}$ $\color{#A251FD}{i}$ $\color{#1D0E76}{𑄜nly}$ $\color{#A34EFF}{ჩad}$ $\color{#FF87FF}{o𝚗e}$ $\color{#FFDFFF}{ᧁoal,}$ $\color{#26113C}{𝚝o}$ $\color{#FF87FF}{achiᧉve}$ $\color{#FF87FF}{𝟐0}$ $\color{#FF87FF}{hea𐑾ts."}$
     </td>
   </tr>
 </table>
