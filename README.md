@@ -21,7 +21,7 @@ $\color{#fffeff}{heiy}$ $\color{#fffeff}{Im}$ $\color{#FF87FF}{Planet}$ $\color{
   <details>
         <summary><img src="https://i.ibb.co/j96hVz7Y/image-2026-10-25-195303319.png" width="150px"></summary>
     
-hiii hi hih ih
+[yoshi](yoshilnqw)
     
   </details>
       </th>
